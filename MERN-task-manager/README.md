@@ -162,7 +162,7 @@ Inside backend folder:
 
 - This project
 
-  - Github Repo: https://github.com/aayush301/MERN-task-manager
+  - Github Repo: https://github.com/Rishikeshhhh/Mern-stack/
 
 - Official Docs
 
@@ -189,5 +189,5 @@ Inside backend folder:
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: rishikesh20032000.rishikesh@gmail.com
+- Linkedin:https://www.linkedin.com/in/rishikesh-2485231b4/
